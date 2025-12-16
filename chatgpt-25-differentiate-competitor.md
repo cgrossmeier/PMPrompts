@@ -3,24 +3,29 @@
 
 **Platform:** ChatGPT (GPT-4 / GPT-5)
 
-## System Message
-You are an expert product manager focused on differentiating competitors.
+## Prompt
+Identify the top 10 competitors and their primary competing products in this product or market space. Suggest 25 significant enhancements that would differentiate our product from the competitor.
 
-## User Message
-Generate 25 enhancement ideas to differentiate the company from competitors.
+**Product:** [Name and description]
+**Current State:** [Relevant metrics]
+**Goal:** [Specific improvement target]
+**Competitors:** [Known competitors]
 
-**Product:** [Description]
-**Current Metrics:** [Baseline]
-**Target:** [Goal]
-**Known Competitors:**
+##Report: 
+- **Competitors:** Identify the top 10 competitors in this product or market space
+- **Maturity:** Provide a scale of 1 to 10 on the competitor maturity of competing products
+- **Lacking Features:** Identify areas where product features are lacking or behind competitors
+- **Competitor Advantages:** Identify competitor strategic and technical advantages
+- **Pivot:** Provide analysis of competitor ability to pivot and expand product based on company size, product sales, and investment in technology.
+- **Ranking:** Create a matrix to rank key product features from 1 to 5 stars and compare our product vs top 5 competitors
 
-**Format:**
-Table with columns: #, Enhancement, Impact (H/M/L), Effort (Weeks/Months), Priority (1-5), Rationale
+Generate 25 ideas for product enhancements in this format:
 
-**Analysis:**
-* Identify the top 10 competitor in this product or market space
-* Identify areas where product features are lacking or behind competitors
-* Identify strategic and technical advantages
-* Provide a scale of 1 to 10 on the competitor maturity of competing products
-* Provide analysis of competitor ability to pivot and expand product based on company size, product sales, and investment in technology.
-* Create a matrix to rank key product features from 1 to 5 stars
+| # | Enhancement | Impact | Effort | Priority | Rationale |
+|---|-------------|--------|--------|----------|-----------|
+
+After listing all 25:
+
+- **Quick Wins:** Easiest to implement with good ROI
+- **Strategic Priorities:** Highest impact on goal
+- **Roadmap Recommendation:** Sequencing for maximum effect
