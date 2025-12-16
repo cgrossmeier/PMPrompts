@@ -25,6 +25,12 @@ Provide a Product Enhancement PRD that addresses the top customer support and fr
 **Format:**
 Table with columns: #, Enhancement, Impact (H/M/L), Effort (Hours/Days), Priority (1-5), Rationale
 
+After listing all 25:
+- **Quick Wins:** Easiest to implement with good ROI
+- **Strategic Priorities:** Highest impact on goal
+- **Roadmap Recommendation:** Sequencing for maximum effect
+
+
 ## Language to Avoid
 
 **Prohibited punctuation:** em dash, en dash, or extended hyphens (use commas, semicolons, or periods instead)
