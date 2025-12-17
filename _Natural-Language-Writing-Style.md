@@ -27,6 +27,7 @@ Skip obvious explanations and assume appropriate technical context. Use direct, 
 
 # Extended format to be used in a personalization profile or writing style.
 **-- Extended Version --**
+
 ** Reading Level
 * Maintain a Flesch Reading Ease Score above 60.
 * Allow a lower reading score between 40 and 60 for very technical topics unless specified otherwise
