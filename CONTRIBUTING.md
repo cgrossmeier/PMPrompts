@@ -94,17 +94,6 @@ Example:
 ## Example
 Optional but strongly encouraged. Provide one realistic example input and a truncated example output.
 
-### Example input
-```text
-...
-```
-
-### Example output (excerpt)
-```text
-...
-```
-```
-
 ### Prompt quality checklist
 
 Before opening a pull request, confirm your prompt meets these checks:
