@@ -2,7 +2,9 @@
 
 **A comprehensive library of AI-optimized prompts for product management professionals**
 
-> Accelerate strategic planning, market research, stakeholder communication, and product development with battle-tested prompts for Claude and ChatGPT.  These scripts are intended to get the ball rolling and not be your final documents.   Each prompt includes more data than any single organization will ever need, but enough context for anyone to remove what they do not need. Use these prompts, trim unnecessary content, and optimize your product management processes.
+> Accelerate strategic planning, market research, stakeholder communication, and product development with battle-tested prompts for Claude and ChatGPT.  Many of these prompts are here to either inform you or help you to generate a document.  In all cases, they are a starting point. Each prompt includes more data than any single organization will ever need, but enough context for anyone to remove what they do not need. Use these prompts, trim unnecessary content, and optimize your product management processes.
+>
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
