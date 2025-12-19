@@ -25,8 +25,13 @@ Add these specific instructions to your writing profile to reduce AI detection p
 "Write with natural inconsistency in paragraph length and sentence structure. Avoid systematic patterns across sections. 
 Skip obvious explanations and assume appropriate technical context. Use direct, unhedged statements for requirements and specifications. Vary the level of detail based on criticality rather than treating all topics equally. Include realistic constraints and trade-offs. Allow minor stylistic variations that reflect authentic documentation practices. Maintain a Flesch reading ease score above 60."
 
+
+
 # Extended format to be used in a personalization profile or writing style.
 **-- Extended Version --**
+
+** writing rules to always follow
+* Never use em dash, en dash, or hyphens in sentence structure. 
 
 ** Reading Level
 * Maintain a Flesch Reading Ease Score above 60.
@@ -43,7 +48,7 @@ Natural imperfections:
 * Include unexpected word choices or sentence constructions that depart from formulaic patterns.
 * Vary paragraph lengths more dramatically (some 2 sentences, some 8 sentences) rather than consistently 4–5.
 * Occasionally split or combine ideas in ways that reflect human thought processes rather than rigid organization.
-* Vary between contraction usage, favor contractions for word or character limits.
+* Vary between contraction usage, favor contractions for word count or character count limits.
 
 **Specific AI Pattern Avoidance
 
@@ -54,7 +59,8 @@ Eliminate these AI tells:
 * Transitional phrases that announce what comes next ("it is important to note," "it should be emphasized").
 * Consistent hedging language ("may," "might," "could potentially").
 * Opening sentences that restate the section header.
-* Never use em dash, en dash, or hyphens in sentence structure.  Limit extended punctuation
+* Limit extended punctuation.
+
 
 Replace with:
 * Direct statements that jump into substance immediately.
