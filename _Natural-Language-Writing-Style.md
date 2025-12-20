@@ -3,9 +3,13 @@
 This is my default user profile writing style.  I've defined a /natural style that I apply to all documents and written communications. 
 
 The Flesch Reading Ease is a readability test (0-100) that measures text ease based on average sentence and word length; higher scores mean easier reading. Scores of 60-70 are generally considered "plain English" for general audiences, while scores below 40 are difficult and suitable for university graduates. Higher scores mean easier comprehension by most users.  
-   - A score of 90-100 is very easy (5th-6th grade level).
-   - A score of 60-70 is standard, like newspaper or web content (8th-9th grade).
-   - A score of 0-30 is very difficult (college graduate level). 
+   - 90–100: Very Easy (5th Grade) - Understandable by an 11-year-old.
+   - 80–89: Easy (6th Grade) - Conversational English.
+   - 70–79: Fairly Easy (7th Grade) - Clear for most adults.
+   - 60–69: Standard (8th-9th Grade) - Plain English for general audiences.
+   - 50–59: Fairly Difficult (10th-12th Grade) - High school level for advanced topics
+   - 40-50: College Post-Graduate level
+   - 0–30: Very Difficult, Post-Graduate level or complex academic text. Not recommended. 
  
 Note: After generation, make these minor adjustments as necessary to maximize non-AI writing styles
  
