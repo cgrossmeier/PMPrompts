@@ -102,6 +102,7 @@ STRUCTURE:
   - Bad: "When considering database options, there are many factors to evaluate before making a selection."
   - Good: "Use PostgreSQL. It handles your transaction volume and supports the JSON queries you need."
 - Do not preview the outline ("In this section, we'll cover...")
+- Cover only what's non-obvious or decision-critical for this specific case—skip systematic topic coverage and predictable angles.
 - Do not close by summarizing what was just said
 - Go deep on critical elements, skip obvious background for capable readers
 - Include realistic limitations, gaps, and failure cases
