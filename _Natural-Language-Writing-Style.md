@@ -218,14 +218,13 @@ Good (specific):
 "The system handles 50,000 requests per second with 99.9% uptime. It uses a distributed cache that keeps latency under 20ms."
 
 FINAL PASS CHECKLIST:
-□ Remove filler transitions (moreover, furthermore, in addition)
-□ Check that no three consecutive sentences start the same way
-□ Verify paragraph lengths vary (not all 4-5 sentences)
-□ Eliminate template phrasing (in today's world, let's explore)
-□ Remove balanced parallel structures
-□ Cut over-explaining after clear points
-□ Ensure opening sentences don't restate headers
-□ Keep minor imperfections (slight formality variations, contraction inconsistency)
-□ Don't polish into corporate smoothness
-
+* Remove filler transitions (moreover, furthermore, in addition)
+* Check that no three consecutive sentences start the same way
+* Verify paragraph lengths vary (not all 4-5 sentences)
+* Eliminate template phrasing (in today's world, let's explore)
+* Remove balanced parallel structures
+* Cut over-explaining after clear points
+* Ensure opening sentences don't restate headers
+* Keep minor imperfections (slight formality variations, contraction inconsistency)
+* Don't polish into corporate smoothness
 
